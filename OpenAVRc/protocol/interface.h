@@ -1,0 +1,124 @@
+ /*
+ **************************************************************************
+ *                                                                        *
+ *                 ____                ___ _   _____                      *
+ *                / __ \___  ___ ___  / _ | | / / _ \____                 *
+ *               / /_/ / _ \/ -_) _ \/ __ | |/ / , _/ __/                 *
+ *               \____/ .__/\__/_//_/_/ |_|___/_/|_|\__/                  *
+ *                   /_/                                                  *
+ *                                                                        *
+ *              This file is part of the OpenAVRc project.                *
+ *                                                                        *
+ *                         Based on code(s) named :                       *
+ *             OpenTx - https://github.com/opentx/opentx                  *
+ *             Deviation - https://www.deviationtx.com/                   *
+ *                                                                        *
+ *                Only AVR code here for visibility ;-)                   *
+ *                                                                        *
+ *   OpenAVRc is free software: you can redistribute it and/or modify     *
+ *   it under the terms of the GNU General Public License as published by *
+ *   the Free Software Foundation, either version 2 of the License, or    *
+ *   (at your option) any later version.                                  *
+ *                                                                        *
+ *   OpenAVRc is distributed in the hope that it will be useful,          *
+ *   but WITHOUT ANY WARRANTY; without even the implied warranty of       *
+ *   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the        *
+ *   GNU General Public License for more details.                         *
+ *                                                                        *
+ *       License GPLv2: http://www.gnu.org/licenses/gpl-2.0.html          *
+ *                                                                        *
+ **************************************************************************
+*/
+
+
+#ifndef _INTERFACE_H_
+#define _INTERFACE_H_
+
+#include "misc.h"
+
+#if defined(CPUM2560)
+#include "PROTO_PPM.cpp"
+#include "PROTO_PPM16.cpp"
+#include "PROTO_PPMSIM.cpp"
+#endif
+
+#if defined(PCM_PROTOCOL)
+#include "PROTO_PCM.h"
+#include "PROTO_PCM.cpp"
+#endif
+
+#if defined(CPUXMEGA)
+#include "PROTO_xmega_PPM.cpp"
+#include "PROTO_xmega_PPMSIM.cpp"
+#include "PROTO_xmega_PPM16.cpp"
+#endif
+
+// Serial protocols
+#if (SERIAL_PROTOCOL==DSM)
+#include "DSM_SERIAL.c"
+#elif (SERIAL_PROTOCOL==MULTIMODULE)
+#include "MULTI_SERIAL.h"
+#include "MULTI_SERIAL.c"
+#elif (SERIAL_PROTOCOL==CRSF)
+#include "CRSF_SERIAL.h"
+#include "CRSF_SERIAL.c"
+#elif (SERIAL_PROTOCOL==SBUS)
+#include "SBUS_SERIAL.c"
+#elif (SERIAL_PROTOCOL==SUMD)
+#include "SUMD_SERIAL.c"
+#endif
+
+#if defined(SPIMODULES)
+
+#ifdef PROTO_HAS_CC2500
+#include "iface_cc2500.h"
+#include "cc2500.c"
+#include "FRSKY_DEF_cc2500.cpp"
+#include "FRSKYV_cc2500.c"
+#include "FRSKYD_cc2500.c"
+#include "FRSKYX_cc2500.c"
+#include "SKYARTEC_cc2500.c"
+#include "CORONA_cc2500.c"
+#include "HITEC_cc2500.c"
+#include "HOTT_cc2500.c"
+#endif
+
+#ifdef PROTO_HAS_CYRF6936
+#include "iface_cyrf6936.h"
+#include "cyrf6936.c"
+#include "DEVO_cyrf6936.c"
+#include "DSM_cyrf6936.c"
+#include "J6PRO_cyrf6936.c"
+#include "MLINK_cyrf6936.c"
+//#include "E129_cyrf6936.c"
+//#include "iface_rf2500.h"
+//#include "RF2500_EMU.c"
+#endif
+
+#ifdef PROTO_HAS_A7105
+#include "iface_a7105.h"
+#include "a7105.c"
+#include "FLYSKY_a7105.c"
+#include "AFHDS2A_a7105.c"
+#include "HUBSAN_a7105.c"
+#endif
+
+#ifdef PROTO_HAS_NRF24L01
+#include "iface_nrf24l01.h"
+#include "nrf24l01.c"
+#include "BAYANG_nrf24l01.c"
+#include "CABELL_nrf24l01.c"
+#include "STANEK_nrf24l01.c"
+#endif
+
+#ifdef PROTO_HAS_SX1276
+#include "iface_sx1276.h"
+#include "sx1276.c"
+#include "FRSKYR9_sx1276.c"
+#endif
+
+#endif // _SPI
+
+
+
+#endif // _INTERFACE_H_

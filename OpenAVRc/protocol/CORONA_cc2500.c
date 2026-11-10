@@ -1,0 +1,406 @@
+/*
+**************************************************************************
+*                                                                        *
+*                 ____                ___ _   _____                      *
+*                / __ \___  ___ ___  / _ | | / / _ \____                 *
+*               / /_/ / _ \/ -_) _ \/ __ | |/ / , _/ __/                 *
+*               \____/ .__/\__/_//_/_/ |_|___/_/|_|\__/                  *
+*                   /_/                                                  *
+*                                                                        *
+*              This file is part of the OpenAVRc project.                *
+*                                                                        *
+*                         Based on code(s) named :                       *
+*             OpenTx - https://github.com/opentx/opentx                  *
+*             Deviation - https://www.deviationtx.com/                   *
+*                                                                        *
+*                Only AVR code here for visibility ;-)                   *
+*                                                                        *
+*   OpenAVRc is free software: you can redistribute it and/or modify     *
+*   it under the terms of the GNU General Public License as published by *
+*   the Free Software Foundation, either version 2 of the License, or    *
+*   (at your option) any later version.                                  *
+*                                                                        *
+*   OpenAVRc is distributed in the hope that it will be useful,          *
+*   but WITHOUT ANY WARRANTY; without even the implied warranty of       *
+*   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the        *
+*   GNU General Public License for more details.                         *
+*                                                                        *
+*       License GPLv2: http://www.gnu.org/licenses/gpl-2.0.html          *
+*                                                                        *
+**************************************************************************
+*/
+
+
+#include "../OpenAVRc.h"
+
+// define pulses2MHz reusable values (13 bytes max)
+#define CORONA_CH_IDX_P2M          BYTE_P2M(1)
+#define CORONA_PROTO_IS_V1_P2M     BYTE_P2M(2)
+
+#define CORONA_RF_STATE16_P2M      WORD_P2M(1)
+#define CORONA_BIND_COUNTER_16_P2M WORD_P2M(2)
+//***********************************************//
+
+
+#define CORONA_RF_NUM_CHANNELS	3
+#define CORONA_ADDRESS_LENGTH	  4
+#define CORONA_BIND_CHANNEL_V1	0xD1
+#define CORONA_BIND_CHANNEL_V2	0xB8
+#define CORONA_COARSE			      0x00
+#define COR_V1                  1
+#define COR_FD_V3               2 // FlyDream V3: 3 data hops + 1 ID hop
+#define FDV3_BIND_PERIOD        5000U
+#define FDV3_CHANNEL_PERIOD     4000U
+
+const static RfOptionSettingsvar_t RfOpt_corona_Ser[] PROGMEM =
+{
+  /*rfProtoNeed*/PROTO_NEED_SPI, //can be PROTO_NEED_SPI | BOOL1USED | BOOL2USED | BOOL3USED
+  /*rfSubTypeMax*/2, // DSSS, FSS, FDV3
+  /*rfOptionValue1Min*/-128, // FREQFINE MIN
+  /*rfOptionValue1Max*/127,  // FREQFINE MAX
+  /*rfOptionValue2Min*/0,
+  /*rfOptionValue2Max*/0,
+  /*rfOptionValue3Max*/7,    // RF POWER
+};
+
+const pm_char STR_SUBTYPE_CORONA[] PROGMEM = "DSSS"" FSS""FDV3";
+
+const static uint8_t ZZ_coronaInitSequence[] PROGMEM =
+{
+  /* 00 */ 0x29, 0x2E, 0x06, 0x07, 0xD3, 0x91, 0xFF, 0x04,
+  /* 08 */ 0x05, 0x00, CORONA_BIND_CHANNEL_V1, 0x06, 0x00, 0x5C, 0x4E, 0xC4 + CORONA_COARSE,
+  /* 10 */ 0x5B, 0xF8, 0x03, 0x23, 0xF8, 0x47, 0x07, 0x30,
+  /* 18 */ 0x18, 0x16, 0x6C, 0x43, 0x40, 0x91, 0x87, 0x6B,
+  /* 20 */ 0xF8, 0x56, 0x10, 0xA9, 0x0A, 0x00, 0x11, 0x41,
+  /* 28 */ 0x00, 0x59, 0x7F, 0x3F, 0x81, 0x35, 0x0B
+};
+
+static void corona_init()
+{
+  // From dumps channels are anything between 0x00 and 0xC5 on V1.
+  // But 0x00 and 0xB8 should be avoided on V2 since they are used for bind.
+  // Below code make sure channels are between 0x02 and 0xA0, spaced with a minimum of 2 and not ordered (RX only use the 1st channel unless there is an issue).
+
+  uint8_t order = temp_rfid_addr_p2M[3]&0x03;
+
+  for(uint8_t i=0; i<CORONA_RF_NUM_CHANNELS+1; i++)
+    {
+      channel_used_p2M[i^order]=2+temp_rfid_addr_p2M[3-i]%39+(i<<5)+(i<<3);
+    }
+  // FlyDream V3 keeps ID bytes 0/2 intact, uses FA in byte 1 and
+  // sends its fourth generated hopping channel as ID byte 3.
+  if (g_model.rfSubType == COR_FD_V3)
+    {
+      temp_rfid_addr_p2M[1] = 0xFA;
+      temp_rfid_addr_p2M[3] = channel_used_p2M[CORONA_RF_NUM_CHANNELS];
+    }
+  else
+    {
+  // ID looks random but on the 15 V1 dumps they all show the same odd/even rule
+  if(temp_rfid_addr_p2M[3]&0x01)
+    {
+      // If [3] is odd then [0] is odd and [2] is even
+      temp_rfid_addr_p2M[0]|=0x01;
+      temp_rfid_addr_p2M[2]&=0xFE;
+    }
+  else
+    {
+      // If [3] is even then [0] is even and [2] is odd
+      temp_rfid_addr_p2M[0]&=0xFE;
+      temp_rfid_addr_p2M[2]|=0x01;
+    }
+  temp_rfid_addr_p2M[1]=0xFE;			// Always FE in the dumps of V1 and V2
+    }
+
+
+  CC2500_Strobe(CC2500_SIDLE);
+
+  uint_farptr_t pdata = pgm_get_far_address(ZZ_coronaInitSequence);
+
+  for (uint8_t i = 0; i<(DIM(ZZ_coronaInitSequence)); ++i)
+    {
+      uint8_t dat = pgm_read_byte_far(pdata++);
+      CC2500_WriteReg(i, dat);
+    }
+
+  if (g_model.rfSubType == COR_FD_V3)
+    {
+      // FDV3 shares V1 bind frequency (0xD1), but uses V2 deviation.
+      // Do not touch CORONA_RF_STATE16_P2M here: it aliases ID bytes 0/1.
+      CC2500_WriteReg(CC2500_15_DEVIATN, 0x50);
+    }
+  else if(!CORONA_PROTO_IS_V1_P2M)
+    {
+      CORONA_RF_STATE16_P2M = 400; // V2 send channel at startup while rfstate
+      CC2500_WriteReg(CC2500_0A_CHANNR, CORONA_BIND_CHANNEL_V2);
+      CC2500_WriteReg(CC2500_0E_FREQ1, 0x80);
+      CC2500_WriteReg(CC2500_0F_FREQ0, 0x00 + CORONA_COARSE);
+      CC2500_WriteReg(CC2500_15_DEVIATN, 0x50);
+      CC2500_WriteReg(CC2500_17_MCSM1, 0x00);
+      CC2500_WriteReg(CC2500_1B_AGCCTRL2, 0x67);
+      CC2500_WriteReg(CC2500_1C_AGCCTRL1, 0xFB);
+      CC2500_WriteReg(CC2500_1D_AGCCTRL0, 0xDC);
+    }
+  else
+    {
+      CORONA_RF_STATE16_P2M = 0;
+    }
+
+  CC2500_ManageFreq();
+
+  //not sure what they are doing to the PATABLE since basically only the first byte is used and it's only 8 bytes long. So I think they end up filling the PATABLE fully with 0xFF
+  //CC2500_WriteRegisterMulti(CC2500_3E_PATABLE,(const uint8_t *)"\x08\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF\xFF", 13);
+
+  CC2500_SetTxRxMode(TX_EN);
+  CC2500_SetPower(TXPOWER_1);
+}
+
+static uint16_t corona_send_data_packet()
+{
+  uint16_t packet_period = 0;
+
+  // FDV3 transmits an identifier on its fourth RF channel after
+  // three normal channel frames.  Reuse CH_IDX=3: no extra RAM.
+  if (g_model.rfSubType == COR_FD_V3 && CORONA_CH_IDX_P2M == CORONA_RF_NUM_CHANNELS)
+    {
+      CORONA_CH_IDX_P2M = 0;
+      CC2500_ManageFreq();
+      CC2500_ManagePower();
+      CC2500_WriteReg(CC2500_0A_CHANNR, temp_rfid_addr_p2M[3]);
+      packet_p2M[0] = 0x07;
+      for (uint8_t i = 0; i < CORONA_ADDRESS_LENGTH; i++)
+        packet_p2M[i+1] = temp_rfid_addr_p2M[i];
+      for (uint8_t i = 0; i < CORONA_RF_NUM_CHANNELS; i++)
+        packet_p2M[i+1+CORONA_ADDRESS_LENGTH] = channel_used_p2M[i];
+      packet_p2M[8] = 0x00;
+      CC2500_WriteData(packet_p2M, packet_p2M[0]+2);
+      return 2*FDV3_CHANNEL_PERIOD;
+    }
+
+  if(g_model.rfSubType == COR_FD_V3 || !CORONA_RF_STATE16_P2M) // V1 or V2&identifier sended
+    {
+#if defined(X_ANY)
+  Xany_scheduleTx_AllInstance();
+#endif
+      // Build standard packet
+      packet_p2M[0] = 0x10;		// 17 bytes to follow
+
+      //Channels
+      memset(packet_p2M+9, 0x00, 4);
+
+      for(uint8_t i=0; i<8; i++)
+        {
+          // Channel values are packed
+          // Compute value +-1280 to range 860<-1500->2140 -125%<-0->+125%
+          int16_t value = (FULL_CHANNEL_OUTPUTS(i))/2; // +-1280 to +-640
+          value += PPM_CENTER; // + 1500 offset
+          value = limit<int16_t>(860, value, 2140);
+
+          packet_p2M[i+1] = value;
+          packet_p2M[9 + (i>>1)] |= (i&0x01)?(value>>4)&0xF0:(value>>8)&0x0F;
+        }
+
+      //TX ID
+      for(uint8_t i=0; i<CORONA_ADDRESS_LENGTH; i++)
+        {
+          packet_p2M[i+13] = temp_rfid_addr_p2M[i];
+        }
+
+      packet_p2M[17] = 0x00;
+
+      // Tune frequency if it has been changed
+      CC2500_ManageFreq();
+      // FDV3: 4000 + 4000 + 6000 + 8000 = 22000 us per RF cycle.
+      if (g_model.rfSubType == COR_FD_V3)
+        {
+          packet_period = (CORONA_CH_IDX_P2M == 2) ? 6000 : FDV3_CHANNEL_PERIOD;
+          if (CORONA_CH_IDX_P2M == 0) SCHEDULE_MIXER_END_IN_US(22000);
+        }
+      else
+      {
+      // Packet period is based on hopping
+      switch(CORONA_CH_IDX_P2M)
+        {
+        case 0:
+          packet_period = 4000;
+          SCHEDULE_MIXER_END_IN_US(20000); // Schedule next Mixer calculations.
+          break;
+        case 1:
+          packet_period = 4000;
+          break;
+        case 2:
+          packet_period = 12000;
+
+          if(!CORONA_PROTO_IS_V1_P2M)
+            {
+              packet_p2M[17] = 0x03;
+            }
+          break;
+        }
+      }
+      // Set channel
+      CC2500_WriteReg(CC2500_0A_CHANNR, channel_used_p2M[CORONA_CH_IDX_P2M]);
+      CORONA_CH_IDX_P2M++;
+      if (g_model.rfSubType != COR_FD_V3)
+        CORONA_CH_IDX_P2M%=CORONA_RF_NUM_CHANNELS; // FDV3 index 3 sends ID
+      // Update power
+      CC2500_ManagePower();
+    }
+  else
+    {
+      // V2 : Send identifier packet for 2.65sec. This is how the RX learns the hopping table after a bind. Why it's not part of the bind like V1 is a mistery...
+      if(--CORONA_RF_STATE16_P2M&1) SCHEDULE_MIXER_END_IN_US(13000); // Dec state & send Schedule next Mixer calculations.
+      packet_p2M[0] = 0x07;		// 8 bytes to follow
+      // Send hopping freq
+      for(uint8_t i=0; i<CORONA_RF_NUM_CHANNELS; i++)
+        {
+          packet_p2M[i+1]=channel_used_p2M[i];
+        }
+      // Send TX ID
+      for(uint8_t i=0; i<CORONA_ADDRESS_LENGTH; i++)
+        {
+          packet_p2M[i+4]=temp_rfid_addr_p2M[i];
+        }
+      packet_p2M[8]=0;
+      packet_period=6500;
+      // Set channel
+      CC2500_WriteReg(CC2500_0A_CHANNR, 0x00);
+    }
+  // Send packet
+  CC2500_WriteData(packet_p2M, packet_p2M[0]+2);
+  return packet_period;
+}
+
+static uint16_t corona_send_bind_packet()
+{
+  uint16_t packet_period;
+
+  // Build bind packets
+  if(CORONA_PROTO_IS_V1_P2M)
+    {
+      // V1
+      if(CORONA_BIND_COUNTER_16_P2M++&1)
+        {
+          SCHEDULE_MIXER_END_IN_US(3500); // Schedule next Mixer calculations.
+          // Send TX ID
+          packet_p2M[0]=0x04;		// 5 bytes to follow
+          for(uint8_t i=0; i<CORONA_ADDRESS_LENGTH; i++)
+            packet_p2M[i+1]=temp_rfid_addr_p2M[i];
+          packet_p2M[5]=0xCD;		// Unknown but seems to be always the same value for V1
+        }
+      else
+        {
+          // Send hopping freq
+          packet_p2M[0]=0x03;		// 4 bytes to follow
+          for(uint8_t i=0; i<CORONA_RF_NUM_CHANNELS+1; i++)
+            packet_p2M[i+1]=channel_used_p2M[i];
+          // Not sure what the last byte (+1) is for now since only the first 3 channels are used...
+        }
+      packet_period=3500;
+    }
+  else
+    {
+      // V2 or FDV3. FDV3 sends the same bind packet every 5 ms.
+      if (g_model.rfSubType == COR_FD_V3)
+        {
+          if ((CORONA_BIND_COUNTER_16_P2M++ & 3) == 0)
+            SCHEDULE_MIXER_END_IN_US(20000);
+          packet_period = FDV3_BIND_PERIOD;
+        }
+      else
+        {
+          SCHEDULE_MIXER_END_IN_US(25000); // Schedule next Mixer calculations.
+          packet_period=25000;
+        }
+      packet_p2M[0]=0x04;		// 5 bytes to follow
+      for(uint8_t i=0; i<CORONA_ADDRESS_LENGTH; i++)
+        packet_p2M[i+1]=temp_rfid_addr_p2M[i];
+      packet_p2M[5]=0x00;		// Unknown but seems to be always the same value for V2 and FDV3
+    }
+  // Send packet
+  CC2500_WriteData(packet_p2M, packet_p2M[0]+2);
+  return packet_period;
+}
+
+static uint16_t CORONA_cb(); // FDV3 switches from timed bind to normal TX
+
+static uint16_t CORONA_bind_cb()
+{
+  uint16_t time = corona_send_bind_packet();
+  // Multiprotocol FDV3 bind duration: 2000 x 5ms = 10s.
+  if (g_model.rfSubType == COR_FD_V3 && CORONA_BIND_COUNTER_16_P2M >= 2000)
+    {
+      PROTOCOL_SetBindState(0);
+      CORONA_CH_IDX_P2M = 0;
+      //PROTO_Change_Callback(CORONA_cb);
+    }
+  heartbeat |= HEART_TIMER_PULSES;
+  CALCULATE_LAT_JIT(); // Calculate latency and jitter.
+  return time*2;
+}
+
+static uint16_t CORONA_cb()
+{
+  uint16_t time = corona_send_data_packet();
+  heartbeat |= HEART_TIMER_PULSES;
+  CALCULATE_LAT_JIT(); // Calculate latency and jitter.
+  return time*2;
+}
+
+
+static void CORONA_initialize(uint8_t bind)
+{
+  loadrfidaddr_rxnum(3);
+  CC2500_Reset();
+
+  (g_model.rfSubType==COR_V1)?CORONA_PROTO_IS_V1_P2M=1:CORONA_PROTO_IS_V1_P2M=0;
+
+  corona_init();
+
+  if (g_model.rfSubType == COR_FD_V3)
+    {
+      CORONA_CH_IDX_P2M = 0;
+      CORONA_BIND_COUNTER_16_P2M = 0;
+    }
+
+  if (bind)
+    {
+      PROTO_Start_Callback( CORONA_bind_cb);
+    }
+  else
+    {
+      PROTO_Start_Callback( CORONA_cb);
+    }
+}
+
+const void *CORONA_Cmds(enum ProtoCmds cmd)
+{
+  switch(cmd)
+    {
+    case PROTOCMD_INIT:
+      CORONA_initialize(0);
+      return 0;
+    case PROTOCMD_RESET:
+      PROTO_Stop_Callback();
+      CC2500_Reset();
+      return 0;
+    case PROTOCMD_BIND:
+      CORONA_initialize(1);
+      return 0;
+    case PROTOCMD_GETOPTIONS:
+      SetRfOptionSettings(pgm_get_far_address(RfOpt_corona_Ser),
+                          STR_SUBTYPE_CORONA,      //Sub proto
+                          STR_RFTUNEFINE,     //Option 1 (int)
+                          STR_DUMMY,      //Option 2 (int)
+                          STR_RFPOWER,    //Option 3 (uint 0 to 31)
+                          STR_DUMMY,      //OptionBool 1
+                          STR_DUMMY,      //OptionBool 2
+                          STR_DUMMY       //OptionBool 3
+                         );
+      return 0;
+    default:
+      break;
+    }
+  return 0;
+}
+

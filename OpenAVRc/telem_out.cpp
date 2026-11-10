@@ -12,6 +12,7 @@
 #define TELEM_OUT_CRSF_TYPE_VARIO        0x07
 #define TELEM_OUT_CRSF_TYPE_BATTERY      0x08
 #define TELEM_OUT_CRSF_TYPE_BARO_ALT     0x09
+#define TELEM_OUT_CRSF_TYPE_AIRSPEED     0x0A
 #define TELEM_OUT_CRSF_TYPE_RPM          0x0C
 #define TELEM_OUT_CRSF_TYPE_TEMPERATURE  0x0D
 #define TELEM_OUT_CRSF_TYPE_VOLTAGES     0x0E
@@ -20,8 +21,11 @@
 
 
 #if (SERIAL_PROTOCOL == CRSF)
-// Local snapshot of the last complete CRSF Link Statistics frame seen by
-// CRSF_SERIAL.c. No modification of CRSF_SERIAL.c is required.
+// Persistent local snapshot of the last complete CRSF Link Statistics frame.
+// These two static objects are intentionally kept: the shared CRSF RX buffer
+// can be reused by the next frame before telem_out sends the 0x14 frame to
+// the ESP32-C3. Keeping a validated local copy avoids coupling telem_out to
+// the P2M protocol union and avoids modifying CRSF_SERIAL.c.
 static uint8_t telemOutCrsfLinkStats[10] = {0};
 static uint8_t telemOutCrsfLinkValid = 0;
 
@@ -441,6 +445,38 @@ static void telemOutSendBaroAltitude()
   telemOutSend(frame, sizeof(frame));
 }
 
+static void telemOutSendAirspeed()
+{
+  // Standard CRSF Airspeed frame 0x0A:
+  // signed airspeed in cm/s.
+  uint8_t frame[6];
+
+  frame[0] = TELEM_OUT_CRSF_SYNC;
+  frame[1] = 4;
+  frame[2] = TELEM_OUT_CRSF_TYPE_AIRSPEED;
+
+#if defined(FRSKY)
+  // OpenAVRc stores airSpeed in 0.1 knot units.
+  // 1 knot = 51.4444 cm/s, therefore 0.1 knot = 5.14444 cm/s.
+  int32_t airspeed = telemetryData.value.airSpeed;
+  if (airspeed < 0)
+    airspeed = 0;
+
+  airspeed = (airspeed * 51444L + 5000L) / 10000L;
+
+  if (airspeed > 32767L)
+    airspeed = 32767L;
+#else
+  int32_t airspeed = 0;
+#endif
+
+  telemOutPutI16BE(&frame[3], (int16_t)airspeed);
+  frame[5] = telemOutCrsfCrc(&frame[2], 3);
+
+  telemOutSend(frame, sizeof(frame));
+}
+
+
 static void telemOutSendRpm()
 {
   // oXs/OpenAVRc compatible CRSF RPM 0x0C:
@@ -623,9 +659,14 @@ void telemOutMain()
   // Odd slots: one telemetry group from the existing round-robin -> ~1 Hz
   // per group. Sending only one frame at a time stays within the small
   // Serial1 TX FIFO.
+  //
+  // These two static variables are intentionally kept because telemOutMain()
+  // is called repeatedly from the main loop and the scheduler must remember
+  // both the last 10 ms tick already processed and the current round-robin
+  // slot between calls. They are local to TELEM_OUT and are not protocol-RF
+  // state, so using the P2M union here would add unnecessary coupling.
   static uint16_t lastTick = 0;
-  static uint8_t nextTelemetry = 0;
-  static uint8_t sendChannels = 1;
+  static uint8_t slot = 0;
 
   const uint16_t now = g_tmr10ms;
   if ((uint16_t)(now - lastTick) < 5U)
@@ -633,13 +674,13 @@ void telemOutMain()
 
   lastTick = now;
 
-  if (sendChannels)
+  if ((slot & 1U) == 0U)
     {
       telemOutSendRcChannels8();
     }
   else
     {
-      switch (nextTelemetry)
+      switch (slot >> 1)
         {
           case 0:
             telemOutSendLink();
@@ -677,17 +718,19 @@ void telemOutMain()
             telemOutSendRxBatt();
             break;
 
+          case 9:
+            telemOutSendAirspeed();
+            break;
+
           default:
             // Give GPS a second slot because it carries several displayed values.
             telemOutSendGps();
             break;
         }
-
-      if (++nextTelemetry >= 10U)
-        nextTelemetry = 0;
     }
 
-  sendChannels ^= 1U;
+  if (++slot >= 22U)
+    slot = 0;
 }
 
 void telemOutStop()

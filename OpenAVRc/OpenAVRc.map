@@ -1,0 +1,1716 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__mulsi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__udivmodhi4)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__divmodhi4)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__udivmodsi4)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__divmodsi4)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o) (__negsi2)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o (exit)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__tablejump2__)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__do_copy_data)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__do_clear_bss)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__do_global_ctors)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__bswapsi2)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__mulhisi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__umulhisi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__usmulhisi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__muluhisi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__mulshisi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__muldi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o) (__muldi3_6)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__umulsidi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__umoddi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o) (__udivmod64)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__ashldi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__lshrdi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__adddi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__adddi3_s8)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__subdi3)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__cmpdi2)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__cmpdi2_s8)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (__brkval)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (random)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (memcmp_P)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (memcpy_P)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strcpy_P)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (memcpy)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (memmove)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (memset)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strcasecmp)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strchr)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strcmp)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strcpy)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strncmp)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strncpy)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (strrchr)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (sprintf_P)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (localtime)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o) (localtime_r)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o (mk_gmtime)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o) (__tm_store)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o) (__utc_offset)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o) (vfprintf)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen_P)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (strnlen)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (fputc)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o) (__dst_ptr)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o) (gmtime_r)
+c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o) (is_leap_year)
+
+Allocating common symbols
+Common symbol       size              file
+
+__brkval            0x2               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__dst_ptr           0x2               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+__utc_offset        0x4               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+__flp               0x2               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__tm_store          0xc               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00800200         0x0000fe00         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800200
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+LOAD C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libm.a
+START GROUP
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libm.a
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a
+LOAD c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libatmega2560.a
+END GROUP
+                0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x0000fe00                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xfe00
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                0x00000400                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000    0x38646
+ *(.vectors)
+ .vectors       0x00000000       0xe4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000000e4                . = ALIGN (0x2)
+                0x000000e4                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000e4      0x298 linker stubs
+ *(.trampolines*)
+                0x0000037c                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem.*)
+ .progmem.data  0x0000037c     0x2dd4 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                0x00003150                . = ALIGN (0x2)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00003150                __ctors_start = .
+ *(.ctors)
+ .ctors         0x00003150        0x2 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                0x00003152                __ctors_end = .
+                0x00003152                __dtors_start = .
+ *(.dtors)
+                0x00003152                __dtors_end = .
+ SORT_BY_NAME(*)(.ctors)
+ SORT_BY_NAME(*)(.dtors)
+ *(.init0)
+ .init0         0x00003152        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+                0x00003152                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00003152       0x10 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00003162       0x1a c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+                0x00003162                __do_copy_data
+ .init4         0x0000317c       0x10 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+                0x0000317c                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x0000318c       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+                0x0000318c                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000031ac        0x8 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ *(.init9)
+ *(.text)
+ .text          0x000031b4        0x4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+                0x000031b4                __vector_38
+                0x000031b4                __vector_22
+                0x000031b4                __vector_28
+                0x000031b4                __vector_1
+                0x000031b4                __vector_34
+                0x000031b4                __vector_24
+                0x000031b4                __vector_12
+                0x000031b4                __vector_46
+                0x000031b4                __bad_interrupt
+                0x000031b4                __vector_31
+                0x000031b4                __vector_35
+                0x000031b4                __vector_3
+                0x000031b4                __vector_23
+                0x000031b4                __vector_30
+                0x000031b4                __vector_45
+                0x000031b4                __vector_11
+                0x000031b4                __vector_54
+                0x000031b4                __vector_13
+                0x000031b4                __vector_19
+                0x000031b4                __vector_56
+                0x000031b4                __vector_49
+                0x000031b4                __vector_41
+                0x000031b4                __vector_43
+                0x000031b4                __vector_33
+                0x000031b4                __vector_47
+                0x000031b4                __vector_52
+                0x000031b4                __vector_4
+                0x000031b4                __vector_44
+                0x000031b4                __vector_51
+                0x000031b4                __vector_9
+                0x000031b4                __vector_2
+                0x000031b4                __vector_21
+                0x000031b4                __vector_15
+                0x000031b4                __vector_29
+                0x000031b4                __vector_40
+                0x000031b4                __vector_48
+                0x000031b4                __vector_14
+                0x000031b4                __vector_53
+                0x000031b4                __vector_10
+                0x000031b4                __vector_50
+                0x000031b4                __vector_20
+                0x000031b4                __vector_42
+ .text          0x000031b8    0x311ea C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                0x00033b62                __vector_39
+                0x00033bba                __vector_5
+                0x00033c28                __vector_6
+                0x00033c96                __vector_8
+                0x00033d04                __vector_7
+                0x00033d72                __vector_55
+                0x00033dba                __vector_32
+                0x00033fbe                __vector_17
+                0x00034088                __vector_18
+                0x000340de                __vector_16
+                0x000341de                __vector_36
+                0x00034244                __vector_37
+                0x000342a0                __vector_25
+                0x00034300                __vector_26
+                0x0003434e                __vector_27
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .text          0x000343a2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+ .text          0x000343a2        0xc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+                0x000343a2                localtime
+ .text          0x000343ae       0xa0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+                0x000343ae                localtime_r
+ .text          0x0003444e      0x176 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                0x0003444e                mk_gmtime
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .text          0x000345c4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+ .text          0x000345c4      0x1ac c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                0x000345c4                gmtime_r
+ .text          0x00034770       0x28 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+                0x00034770                is_leap_year
+                0x00034798                . = ALIGN (0x2)
+ *(.text.*)
+ .text.startup  0x00034798     0x2a0a C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                0x00034798                main
+ .text.libgcc.mul
+                0x000371a2       0x1e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+                0x000371a2                __mulsi3
+ .text.libgcc.div
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x000371c0        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x000371c0       0x28 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+                0x000371c0                __udivmodhi4
+ .text.libgcc   0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x000371e8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x000371e8       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+                0x000371e8                _div
+                0x000371e8                __divmodhi4
+ .text.libgcc   0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x0003720e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0003720e       0x44 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+                0x0003720e                __udivmodsi4
+ .text.libgcc   0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00037252        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x00037252       0x28 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+                0x00037252                __divmodsi4
+ .text.libgcc   0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0003727a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.div
+                0x0003727a       0x10 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+                0x0003727a                __negsi2
+ .text.libgcc   0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc   0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x0003728a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc   0x0003728a       0x10 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+                0x0003728a                __tablejump2__
+ .text.libgcc.prologue
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc   0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc.div
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc   0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc.prologue
+                0x0003729a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc.builtins
+                0x0003729a        0xe c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+                0x0003729a                __bswapsi2
+ .text.libgcc.fmul
+                0x000372a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc.fixed
+                0x000372a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .text.libgcc.mul
+                0x000372a8        0xc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+                0x000372a8                __mulhisi3
+ .text.libgcc.div
+                0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc   0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc.prologue
+                0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc.builtins
+                0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc.fmul
+                0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc.fixed
+                0x000372b4        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .text.libgcc.mul
+                0x000372b4       0x1e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+                0x000372b4                __umulhisi3
+ .text.libgcc.div
+                0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x000372d2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x000372d2        0xc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+                0x000372d2                __usmulhisi3
+                0x000372d4                __usmulhisi3_tail
+ .text.libgcc.div
+                0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fixed
+                0x000372de        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x000372de       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+                0x000372de                __muluhisi3
+ .text.libgcc.div
+                0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x000372f2        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x000372f2        0xc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+                0x000372f2                __mulshisi3
+                0x000372f6                __mulohisi3
+ .text.libgcc.div
+                0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.fixed
+                0x000372fe        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x000372fe       0x90 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+                0x000372fe                __muldi3
+ .text.libgcc.div
+                0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc   0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc.prologue
+                0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc.builtins
+                0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc.fmul
+                0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc.fixed
+                0x0003738e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .text.libgcc.mul
+                0x0003738e       0x10 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+                0x0003738e                __muldi3_6
+ .text.libgcc.div
+                0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc   0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc.prologue
+                0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc.builtins
+                0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fmul
+                0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc.fixed
+                0x0003739e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .text.libgcc.mul
+                0x0003739e       0x4e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+                0x0003739e                __umulsidi3
+                0x000373a0                __umulsidi3_helper
+ .text.libgcc.div
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc   0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc.prologue
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc.builtins
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fmul
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc.fixed
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .text.libgcc.mul
+                0x000373ec        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.div
+                0x000373ec       0x1a c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+                0x000373ec                __umoddi3
+                0x000373f0                __udivdi3
+                0x000373f2                __udivdi3_umoddi3
+ .text.libgcc   0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.prologue
+                0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.builtins
+                0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.fmul
+                0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.fixed
+                0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .text.libgcc.mul
+                0x00037406        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.div
+                0x00037406       0xa2 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+                0x00037406                __udivmod64
+ .text.libgcc   0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.prologue
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.builtins
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.fmul
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.fixed
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .text.libgcc.mul
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc.div
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc   0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc.prologue
+                0x000374a8        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc.builtins
+                0x000374a8       0x32 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+                0x000374a8                __ashldi3
+ .text.libgcc.fmul
+                0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc.fixed
+                0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .text.libgcc.mul
+                0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc.div
+                0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc   0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc.prologue
+                0x000374da        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc.builtins
+                0x000374da       0x3a c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+                0x000374da                __ashrdi3
+                0x000374de                __lshrdi3
+ .text.libgcc.fmul
+                0x00037514        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc.fixed
+                0x00037514        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .text.libgcc.mul
+                0x00037514        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc.div
+                0x00037514        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc   0x00037514       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+                0x00037514                __adddi3
+ .text.libgcc.prologue
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc.builtins
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc.fmul
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc.fixed
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .text.libgcc.mul
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.div
+                0x00037526        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc   0x00037526       0x18 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+                0x00037526                __adddi3_s8
+ .text.libgcc.prologue
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.builtins
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fmul
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.fixed
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .text.libgcc.mul
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc.div
+                0x0003753e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc   0x0003753e       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+                0x0003753e                __subdi3
+ .text.libgcc.prologue
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc.builtins
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc.fmul
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc.fixed
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .text.libgcc.mul
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc.div
+                0x00037550        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc   0x00037550       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+                0x00037550                __cmpdi2
+ .text.libgcc.prologue
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc.builtins
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fmul
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc.fixed
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .text.libgcc.mul
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.div
+                0x00037562        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc   0x00037562       0x18 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+                0x00037562                __cmpdi2_s8
+ .text.libgcc.prologue
+                0x0003757a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.builtins
+                0x0003757a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fmul
+                0x0003757a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.libgcc.fixed
+                0x0003757a        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .text.avr-libc
+                0x0003757a      0x256 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x0003757a                malloc
+                0x000376ae                free
+ .text.avr-libc
+                0x000377d0      0x13c c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                0x000377d0                random_r
+                0x00037862                random
+                0x000378fa                srandom
+ .text.avr-libc
+                0x0003790c       0x1a c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+                0x0003790c                memcmp_P
+ .text.avr-libc
+                0x00037926       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+                0x00037926                memcpy_P
+ .text.avr-libc
+                0x00037938        0xe c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+                0x00037938                strcpy_P
+ .text.avr-libc
+                0x00037946       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                0x00037946                memcpy
+ .text.avr-libc
+                0x00037958       0x22 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+                0x00037958                memmove
+ .text.avr-libc
+                0x0003797a        0xe c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+                0x0003797a                memset
+ .text.avr-libc
+                0x00037988       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+                0x00037988                strcasecmp
+ .text.avr-libc
+                0x000379ae       0x16 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+                0x000379ae                strchr
+ .text.avr-libc
+                0x000379c4       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                0x000379c4                strcmp
+ .text.avr-libc
+                0x000379d6        0xe c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                0x000379d6                strcpy
+ .text.avr-libc
+                0x000379e4       0x1c c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+                0x000379e4                strncmp
+ .text.avr-libc
+                0x00037a00       0x1e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                0x00037a00                strncpy
+ .text.avr-libc
+                0x00037a1e       0x16 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+                0x00037a1e                strrchr
+ .text.avr-libc
+                0x00037a34       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+                0x00037a34                sprintf_P
+ .text.avr-libc
+                0x00037a92      0x3cc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                0x00037a92                vfprintf
+ .text.avr-libc
+                0x00037e5e       0x16 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                0x00037e5e                strnlen_P
+ .text.avr-libc
+                0x00037e74       0x16 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                0x00037e74                strnlen
+ .text.avr-libc
+                0x00037e8a       0x60 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                0x00037e8a                fputc
+ .text.avr-libc
+                0x00037eea       0xbc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                0x00037eea                __ultoa_invert
+                0x00037fa6                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00037fa6        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+                0x00037fa6                _exit
+                0x00037fa6                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00037fa6        0x4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ *(.fini0)
+ *(.hightext)
+ *(.hightext*)
+ *(.progmemx.*)
+                0x00037faa                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ .jumptables.gcc._Z22convert8bitsTelemValuehh
+                0x00037faa       0x56 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z13applyTemplateh
+                0x00038000        0xe C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z16processHubPackethj
+                0x0003800e       0xea C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._ZL19MLINK_decode_sensorPKh
+                0x000380f8       0x4a C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z7per10msv
+                0x00038142       0xec C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z11switchState8EnumKeys.part.42
+                0x0003822e       0x12 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z28lcdPutsTelemetryChannelValuehhhih
+                0x00038240       0x58 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z10applyCurveia
+                0x00038298        0xe C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._ZL8HITEC_cbv
+                0x000382a6       0x4a C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._ZL6DSM_cbv
+                0x000382f0       0x1c C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z8J6PRO_cbv
+                0x0003830c       0x1e C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z7DEVO_cbv
+                0x0003832a        0xe C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._ZN10audioQueue5eventEhh.constprop.212
+                0x00038338       0x3a C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z15menuModelMixOneh
+                0x00038372       0x34 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z18menuModelTelemetryh
+                0x000383a6       0x36 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z17menuModelPhaseOneh
+                0x000383dc       0x1c C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z16menuGeneralSetuph
+                0x000383f8       0x3a C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z9HUBSAN_cbv
+                0x00038432      0x10e C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z19doMixerCalculationsv
+                0x00038540       0x70 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z24menuGeneralSdManagerInfoh
+                0x000385b0       0x1e C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z13menuModelXanyh
+                0x000385ce       0x1c C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc._Z14menuModelSetuph
+                0x000385ea       0x38 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .jumptables.gcc.main
+                0x00038622       0x24 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                0x00038646                _etext = .
+
+.data           0x00800200      0x89c load address 0x00038646
+                0x00800200                PROVIDE (__data_start = .)
+ *(.data)
+ .data          0x00800200        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .data          0x00800200       0x1d C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .data          0x0080021d        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .data          0x0080021d        0x6 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x0080021d                __malloc_heap_end
+                0x0080021f                __malloc_heap_start
+                0x00800221                __malloc_margin
+ .data          0x00800223        0x4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+ .data          0x00800227        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+ *(.rodata)
+ .rodata        0x00800227      0x850 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800a77       0x24 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                 0x30 (size before relaxing)
+ *(.gnu.linkonce.r*)
+                0x00800a9c                . = ALIGN (0x2)
+ *fill*         0x00800a9b        0x1 
+                0x00800a9c                _edata = .
+                0x00800a9c                PROVIDE (__data_end = .)
+
+.bss            0x00800a9c     0x13b8
+                0x00800a9c                PROVIDE (__bss_start = .)
+ *(.bss)
+ .bss           0x00800a9c        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .bss           0x00800a9c     0x13a2 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+ .bss           0x00801e3e        0x0 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00801e3e        0x4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                0x00801e3e                __brkval
+                0x00801e40                __flp
+ COMMON         0x00801e42        0xc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+                0x00801e42                __tm_store
+ COMMON         0x00801e4e        0x4 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+                0x00801e4e                __utc_offset
+ COMMON         0x00801e52        0x2 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+                0x00801e52                __dst_ptr
+                0x00801e54                PROVIDE (__bss_end = .)
+                0x00038646                __data_load_start = LOADADDR (.data)
+                0x00038ee2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00801e54        0x0
+                [!provide]                PROVIDE (__noinit_start = .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end = .)
+                0x00801e54                _end = .
+                0x00801e54                PROVIDE (__heap_start = .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x11
+ *(.comment)
+ .comment       0x00000000       0x11 C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                 0x12 (size before relaxing)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+ .comment       0x00000011       0x12 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x3a0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x00000020       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x00000040       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .debug_aranges
+                0x00000060       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .debug_aranges
+                0x00000080       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x000000a0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .debug_aranges
+                0x000000c0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .debug_aranges
+                0x000000e0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .debug_aranges
+                0x00000100       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000120       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000140       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .debug_aranges
+                0x00000160       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .debug_aranges
+                0x00000180       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .debug_aranges
+                0x000001a0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x000001c0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .debug_aranges
+                0x000001e0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000200       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .debug_aranges
+                0x00000220       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000240       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .debug_aranges
+                0x00000260       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .debug_aranges
+                0x00000280       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x000002a0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .debug_aranges
+                0x000002c0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x000002e0       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .debug_aranges
+                0x00000300       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .debug_aranges
+                0x00000320       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .debug_aranges
+                0x00000340       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .debug_aranges
+                0x00000360       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .debug_aranges
+                0x00000380       0x20 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x100a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0xbbc c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .debug_info    0x00000bbc       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .debug_info    0x00000be2       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .debug_info    0x00000c08       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .debug_info    0x00000c2e       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .debug_info    0x00000c54       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .debug_info    0x00000c7a       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .debug_info    0x00000ca0       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .debug_info    0x00000cc6       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .debug_info    0x00000cec       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .debug_info    0x00000d12       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .debug_info    0x00000d38       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .debug_info    0x00000d5e       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .debug_info    0x00000d84       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .debug_info    0x00000daa       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .debug_info    0x00000dd0       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .debug_info    0x00000df6       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .debug_info    0x00000e1c       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .debug_info    0x00000e42       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .debug_info    0x00000e68       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .debug_info    0x00000e8e       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .debug_info    0x00000eb4       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .debug_info    0x00000eda       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .debug_info    0x00000f00       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .debug_info    0x00000f26       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .debug_info    0x00000f4c       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .debug_info    0x00000f72       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .debug_info    0x00000f98       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .debug_info    0x00000fbe       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .debug_info    0x00000fe4       0x26 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+
+.debug_abbrev   0x00000000      0xd5e
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0xb1a c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .debug_abbrev  0x00000b1a       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x00000b2e       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x00000b42       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .debug_abbrev  0x00000b56       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .debug_abbrev  0x00000b6a       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00000b7e       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .debug_abbrev  0x00000b92       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .debug_abbrev  0x00000ba6       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .debug_abbrev  0x00000bba       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000bce       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000be2       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .debug_abbrev  0x00000bf6       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .debug_abbrev  0x00000c0a       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .debug_abbrev  0x00000c1e       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x00000c32       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .debug_abbrev  0x00000c46       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x00000c5a       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .debug_abbrev  0x00000c6e       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .debug_abbrev  0x00000c82       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .debug_abbrev  0x00000c96       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .debug_abbrev  0x00000caa       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00000cbe       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .debug_abbrev  0x00000cd2       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x00000ce6       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .debug_abbrev  0x00000cfa       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .debug_abbrev  0x00000d0e       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .debug_abbrev  0x00000d22       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .debug_abbrev  0x00000d36       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .debug_abbrev  0x00000d4a       0x14 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+
+.debug_line     0x00000000     0x137e
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000       0x1d c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .debug_line    0x0000001d       0xaf c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .debug_line    0x000000cc       0xcd c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00000199       0xc7 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .debug_line    0x00000260      0x121 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .debug_line    0x00000381       0xcd c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .debug_line    0x0000044e       0x61 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .debug_line    0x000004af       0x61 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .debug_line    0x00000510       0x85 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .debug_line    0x00000595       0xa3 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .debug_line    0x00000638       0x85 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .debug_line    0x000006bd       0xaf c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .debug_line    0x0000076c       0x67 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .debug_line    0x000007d3       0x79 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .debug_line    0x0000084c       0xaf c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .debug_line    0x000008fb       0x79 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .debug_line    0x00000974       0x91 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .debug_line    0x00000a05       0x79 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .debug_line    0x00000a7e      0x16f c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .debug_line    0x00000bed       0x85 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .debug_line    0x00000c72      0x10f c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .debug_line    0x00000d81       0xa3 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .debug_line    0x00000e24      0x145 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .debug_line    0x00000f69       0xeb c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .debug_line    0x00001054      0x103 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .debug_line    0x00001157       0x67 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .debug_line    0x000011be       0x79 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .debug_line    0x00001237       0x67 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .debug_line    0x0000129e       0x67 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .debug_line    0x00001305       0x79 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x444
+ *(.debug_str)
+ .debug_str     0x00000000      0x3e6 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+ .debug_str     0x000003e6       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+ .debug_str     0x00000444       0x5e c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+OUTPUT(OpenAVRc.elf elf32-avr)
+LOAD linker stubs
+
+Cross Reference Table
+
+Symbol                                            File
+__adddi3                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__adddi3_s8                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_adddi3_s8.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__ashldi3                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashldi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__ashrdi3                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+__bad_interrupt                                   c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__brkval                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__bss_end                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__bss_start                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+__bswapsi2                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_bswapsi2.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__cmpdi2                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__cmpdi2_s8                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_cmpdi2_s8.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__ctors_end                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+__ctors_start                                     c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+__data_end                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+__data_start                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__divmodsi4                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__do_clear_bss                                    c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_clear_bss.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__do_copy_data                                    c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_copy_data.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__do_global_ctors                                 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__dst_ptr                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(dst_pointer.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+__flp                                             c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__heap_end                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__heap_start                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__init                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__lshrdi3                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ashrdi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__malloc_heap_end                                 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__malloc_heap_start                               c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__malloc_margin                                   c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+__muldi3                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__muldi3_6                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+__mulhisi3                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__mulohisi3                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+__mulshisi3                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__mulsi3                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__muluhisi3                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulshisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulsi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__negsi2                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_negsi2.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+__stack                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__subdi3                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_subdi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__tablejump2__                                    c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_tablejump2.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_ctors.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__tm_store                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(tm_store.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+__udivdi3                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__udivdi3_umoddi3                                 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+__udivmod64                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmod64.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+__udivmodhi4                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodhi4.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__udivmodsi4                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivmodsi4.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodsi4.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__ultoa_invert                                    c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(ultoa_invert.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+__umoddi3                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_udivdi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__umulhisi3                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3_6.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muldi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_muluhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__umulsidi3                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__umulsidi3_helper                                c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_umulsidi3.o)
+__usmulhisi3                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+__usmulhisi3_tail                                 c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_usmulhisi3.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_mulhisi3.o)
+__utc_offset                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(utc_offset.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+__vector_1                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_10                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_11                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_12                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_13                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_14                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_15                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_16                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_17                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_18                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_19                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_2                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_20                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_21                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_22                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_23                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_24                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_25                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_26                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_27                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_28                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_29                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_3                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_30                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_31                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_32                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_33                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_34                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_35                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_36                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_37                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_38                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_39                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_4                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_40                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_41                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_42                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_43                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_44                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_45                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_46                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_47                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_48                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_49                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_5                                        C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_50                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_51                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_52                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_53                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_54                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_55                                       C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_56                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_6                                        C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_7                                        C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_8                                        C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_9                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vector_default                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+__vectors                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+_div                                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_divmodhi4.o)
+_exit                                             c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+exit                                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/avr6\libgcc.a(_exit.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+fputc                                             c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(fputc.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+free                                              c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+gmtime_r                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(gmtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+is_leap_year                                      c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(isLeap.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+localtime                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+localtime_r                                       c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime_r.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(localtime.o)
+main                                              C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6/crtatmega2560.o
+malloc                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(malloc.o)
+memcmp_P                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcmp_P.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+memcpy                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+memcpy_P                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memcpy_P.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+memmove                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memmove.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+memset                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(memset.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+mk_gmtime                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(mk_gmtime.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+random                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+random_r                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+sprintf_P                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+srandom                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(random.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strcasecmp                                        c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcasecmp.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strchr                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strchr.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strcmp                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcmp.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strcpy                                            c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strcpy_P                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strcpy_P.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strncmp                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncmp.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strncpy                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strncpy.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+strnlen                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+strnlen_P                                         c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strnlen_P.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+strrchr                                           c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(strrchr.o)
+                                                  C:\Users\pierrot\AppData\Local\Temp\ccXify0x.o
+vfprintf                                          c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(vfprintf_std.o)
+                                                  c:/openavrcv3.00/avr-gcc/bin/../lib/gcc/avr/8.3.0/../../../../avr/lib/avr6\libc.a(sprintf_p.o)
